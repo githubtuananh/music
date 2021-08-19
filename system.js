@@ -26,20 +26,20 @@ const app = {
   songs: [
     {
       name: "Nàng thơ",
-      singer: "xxx",
+      singer: "Hoàng Dũng",
       path: "./music/NangTho-HoangDung-6413381.mp3",
       image: "https://i.ytimg.com/vi/jTLhQf5KJSc/maxresdefault.jpg"
     },
     {
       name: "Bước qua mùa cô đơn",
-      singer: "xxx",
+      singer: "Vũ",
       path: "./music/BuocQuaMuaCoDon-Vu-6879419.mp3",
       image:
         "https://1.bp.blogspot.com/-kX21dGUuTdM/X85ij1SBeEI/AAAAAAAAKK4/feboCtDKkls19cZw3glZWRdJ6J8alCm-gCNcBGAsYHQ/s16000/Tu%2BAana%2BPhir%2BSe%2BRap%2BSong%2BLyrics%2BBy%2BRaftaar.jpg"
     },
     {
       name: "Bông hoa đẹp nhất",
-      singer: "xxx",
+      singer: "Quân AP",
       path: "./music/BongHoaDepNhat-QuanAP-6607955.mp3",
       image:
         "https://a10.gaanacdn.com/images/song/39/24225939/crop_480x480_1536749130.jpg"
@@ -61,7 +61,7 @@ const app = {
     // },
     {
       name: "Vu vơ",
-      singer: "xx",
+      singer: "Vũ",
       path: "./music/VuVo-JustaTeeYanbi-2440207.mp3",
       image:
         "https://a10.gaanacdn.com/gn_img/albums/YoEWlabzXB/oEWlj5gYKz/size_xxl_1586752323.webp"
